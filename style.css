@@ -1,0 +1,22 @@
+body {
+background-color: blue;
+}
+.head {
+	background-color: black;
+	width: 800px;
+	height: 800px;
+	margin: auto;
+
+}
+.text {
+	color: yellow;
+}
+.image {
+	text-align: center;
+}
+.text_two {
+font-size: 40px;
+color: white;
+border: 5px solid aqua;
+text-align: center;
+}

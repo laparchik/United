@@ -1,22 +1,23 @@
-body {
-background-color: blue;
+*{
+    margin: 0;
+    padding: 0;
 }
-.head {
-	background-color: black;
-	width: 800px;
-	height: 800px;
-	margin: auto;
 
+.elipradio {
+    display: flex;
+    margin: 15px 0 15px 125px;
 }
-.text {
-	color: yellow;
+.reg_blank {
+    border: 10px solid darkgreen;
+    /* padding: inherit; */
+    /* margin: auto; */
+    margin: 0 190px;
+    height: 350px;
+    text-align: center;
 }
-.image {
-	text-align: center;
+.date {
+    margin: 5px 0 5px 0;
 }
-.text_two {
-font-size: 40px;
-color: white;
-border: 5px solid aqua;
-text-align: center;
+.header {
+    margin: 0 0 15px 0;
 }
